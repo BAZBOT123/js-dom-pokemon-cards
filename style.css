@@ -20,8 +20,7 @@ img {
   max-width: 100%;
 }
 
-h1,
-h2 {
+h1, h3 {
   text-align: center;
 }
 
@@ -39,7 +38,6 @@ h2 {
 .card {
   width: 100%;
   justify-self: center;
-
   border: 1px solid #252525;
   border-radius: 8px;
 
@@ -55,8 +53,11 @@ h2 {
 .card--text {
   margin: 0.2rem;
   padding: 1rem;
-
   border-radius: 5px;
+}
+
+h3 {
+  size: 2rem
 }
 
 .card--img {
