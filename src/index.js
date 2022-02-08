@@ -38,6 +38,7 @@ function pokemonCard() {
         }
     }
 }
+//calling a function
  pokemonCard()
 
 
